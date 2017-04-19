@@ -1,4 +1,7 @@
-# test coverage for  [wiredep (v4.0.0)](https://github.com/taptapship/wiredep#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-wiredep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wiredep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wiredep.svg)](https://travis-ci.org/npmtest/node-npmtest-wiredep)
+# npmtest-wiredep
+
+#### basic test coverage for  [wiredep (v4.0.0)](https://github.com/taptapship/wiredep#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-wiredep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-wiredep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-wiredep.svg)](https://travis-ci.org/npmtest/node-npmtest-wiredep)
+
 #### Wire Bower dependencies to your source code.
 
 [![NPM](https://nodei.co/npm/wiredep.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/wiredep)
